@@ -648,7 +648,7 @@ function Footer({ phone1, email, onWhatsApp }: { phone1: string; email: string; 
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="text-center md:text-left">
             <h3 className="text-2xl font-bold text-amber-500 mb-2">MM Granites & Exports</h3>
-            <p className="text-zinc-400">© 2026 MM Granites & Exports. All Rights Reserved.</p>
+            <p className="text-zinc-400">© 1980 MM Granites & Exports. All Rights Reserved.</p>
           </div>
 
           <div className="flex gap-6">
